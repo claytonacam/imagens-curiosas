@@ -1,10 +1,10 @@
 # Treta no Planalto — Edição Presidencial
 
-Jogo de luta 2D estilo arcade (paródia) com **Bolsonaro vs Lula**, feito em HTML5 Canvas puro, sem dependências.
+Jogo de luta 2D estilo arcade (paródia) com **Bolsonaro vs Lula**, feito em HTML5 Canvas puro, sem dependências, em um único arquivo (`index.html`).
 
 ## Como jogar
 
-Abra o `index.html` no navegador (ou publique a pasta no GitHub Pages).
+Abra o `index.html` no navegador e clique em uma opção do menu (ou use ↑ ↓ e ENTER).
 
 | Ação | Jogador 1 | Jogador 2 |
 |---|---|---|
